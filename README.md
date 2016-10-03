@@ -2,8 +2,7 @@
 A script to remove disconnected islands in a pgrouting network
 
 ## Requires:
-Python 2
-networkx and psycopg2
+Python 2, networkx and psycopg2
 
 Both are available as pip packages.
 
